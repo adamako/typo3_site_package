@@ -24,6 +24,8 @@ page {
     templateName.stdWrap.cObject = CASE
     templateName.stdWrap.cObject {
       key.data = pagelayout
+      default = TEXT
+      default.value = Content
       pagets__home = TEXT
       pagets__home.value = Home
       pagets__content = TEXT
