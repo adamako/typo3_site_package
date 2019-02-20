@@ -12,6 +12,10 @@
  * The TYPO3 project - inspiring people to share!
  */
 
-main {
-    margin-top: 3rem;
+.jumbotron {
+    padding-top: 8rem;
+}
+
+.container {
+    padding-top: 6rem;
 }
