@@ -1,5 +1,5 @@
 {
-  "name": "schams-net/site-package",
+  "name": "typo3-extbase-book/site-package",
   "description": "TYPO3 v9 Site Package Extension",
   "type": "typo3-cms-extension",
   "version": "1.0.0",
