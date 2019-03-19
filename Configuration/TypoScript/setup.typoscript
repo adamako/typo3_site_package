@@ -94,9 +94,7 @@ config {
   metaCharset = utf-8
   no_cache = 0
   pageTitleFirst = 1
-  prefixLocalAnchors = all
   removeDefaultJS = 0
-  renderCharset = utf-8
   sendCacheHeaders = 1
   uniqueLinkVars = 1
 
