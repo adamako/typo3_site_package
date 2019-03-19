@@ -59,6 +59,10 @@ page {
     fontawesome = https://use.fontawesome.com/releases/v5.7.2/css/all.css
     fontawesome.integrity = sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr
     fontawesome.external = 1
+    googlefonts-droid = https://fonts.googleapis.com/css?family=Droid+Serif:400,700
+    googlefonts-droid.external = 1
+    googlefonts-montserrat = https://fonts.googleapis.com/css?family=Montserrat:400,700
+    googlefonts-montserrat.external = 1
     website = EXT:site_package/Resources/Public/Css/website.css
   }
 
