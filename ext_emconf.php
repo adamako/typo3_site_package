@@ -1,4 +1,13 @@
 <?php
+
+/*
+ * This file is part of the TYPO3 extension "Site Package".
+ * TYPO3 Extbase Book
+ *
+ * (c)2019 by Michael Schams <schams.net>
+ * https://extbase-book.org
+ */
+
 $EM_CONF[$_EXTKEY] = [
     'title' => 'TYPO3 Extbase Book - Site Package',
     'description' => 'TYPO3 v9 Site Package (frontend theme)',
@@ -10,8 +19,8 @@ $EM_CONF[$_EXTKEY] = [
     'state' => 'stable',
     'constraints' => [
         'depends' => [
-            'typo3' => '9.0.0-9.5.99',
-            'fluid_styled_content' => '9.0.0-9.5.99'
+            'typo3' => '9.5.0-9.5.99',
+            'fluid_styled_content' => '9.5.0-9.5.99'
         ],
         'conflicts' => [
         ],
