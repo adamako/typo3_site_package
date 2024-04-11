@@ -1,6 +1,6 @@
 {
   "name": "typo3-extbase-book/site-package",
-  "description": "TYPO3 v9 Site Package (frontend theme)",
+  "description": "TYPO3 v12 Site Package (frontend theme)",
   "type": "typo3-cms-extension",
   "version": "1.0.0",
   "authors": [
@@ -9,6 +9,12 @@
     }
   ],
   "require": {
-    "typo3/cms-core": "^9.5"
+    "typo3/cms-core": "^12.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "typo3/cms-composer-installers": true,
+      "typo3/class-alias-loader": true
+    }
   }
 }
